@@ -6,10 +6,10 @@ Hi 👋 My name is Aidan Connaughton
 Computer Science Student
 ------------------------
 
-I've self-taught my self through trying things over and over again. I am finally going into college for Computer Science.
+Sophmore at Roger Williams Univesity.
 
-*   🖥️  See my portfolio at [My Website (W.I.P)](http://aidanconnaughton.com)
-*   ✉️  You can contact me at [contact@aidanconnaughton.com](mailto:contact@aidanconnaughton.com)
+*   🖥️  See my portfolio at [My Website (W.I.P)](http://aidanconnaughton.com) [Currently Down]
+*   ✉️  You can contact me at [contact@aidanconnaughton.com](mailto:contact@aidanconnaughton.com) [Currently Down]
 
 ### Skills
 <p align="left">
