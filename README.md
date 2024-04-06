@@ -6,7 +6,7 @@ Hi 👋 My name is Aidan Connaughton
 Computer Science Student
 ------------------------
 
-Sophmore at Roger Williams Univesity.
+Sophomore at Roger Williams Univesity.
 
 *   🖥️  See my portfolio at [My Website (W.I.P)](http://aidanconnaughton.com) [Currently Down]
 *   ✉️  You can contact me at [contact@aidanconnaughton.com](mailto:contact@aidanconnaughton.com) [Currently Down]
