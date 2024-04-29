@@ -1,4 +1,4 @@
-buymeacoffeeBuy Me a Coffee:
+
 
 Hi 👋 My name is Aidan Connaughton
 ==================================
