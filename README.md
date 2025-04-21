@@ -8,7 +8,7 @@ Computer Science Student
 Junior at Roger Williams Univesity.
 
 *   🖥️  See my portfolio at [My Website (W.I.P)](http://aidanconnaughton.com)
-*   ✉️  You can contact me at [contact@aidanconnaughton.com](mailto:aidan@aidanconnaughton.com)
+*   ✉️  You can contact me at [aidan@aidanconnaughton.com](mailto:aidan@aidanconnaughton.com)
 
 ### Skills
 <p align="left">
